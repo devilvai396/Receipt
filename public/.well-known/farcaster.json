@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "TODO_REPLACE_BASE64_HEADER",
+    "payload": "TODO_REPLACE_BASE64_PAYLOAD",
+    "signature": "TODO_REPLACE_BASE64_SIGNATURE"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Receipt",
+    "homeUrl": "https://{DOMAIN}/",
+    "iconUrl": "https://{DOMAIN}/assets/icon.png",
+    "splashImageUrl": "https://{DOMAIN}/assets/splash.png",
+    "splashBackgroundColor": "#020617",
+    "subtitle": "Your day, itemized.",
+    "description": "Open once a day to receive a surreal receipt summarizing what your day cost in time, energy, and attention.",
+    "primaryCategory": "entertainment",
+    "tags": [
+      "fun",
+      "simple",
+      "utility"
+    ],
+    "heroImageUrl": "https://{DOMAIN}/assets/hero.png",
+    "ogTitle": "Receipt",
+    "ogDescription": "Open once a day to receive a surreal receipt summarizing what your day cost in time, energy, and attention.",
+    "ogImageUrl": "https://{DOMAIN}/assets/hero.png",
+    "screenshotUrls": [
+      "https://{DOMAIN}/assets/hero.png"
+    ],
+    "noindex": true
+  }
+}
